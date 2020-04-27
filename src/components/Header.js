@@ -31,7 +31,7 @@ export class Header extends Component {
 
 
 
-            <div className="offset-lg-1 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 ">
+            <div className="offset-lg-1 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 ">
               <h1 className="padding-bottom-20" style={{ paddingLeft: '15px', fontFamily: 'Cabin', fontWeight: 600, fontSize: '5em', letterSpacing: -1, color: "#fff" }}>
                 {/*<ReactTypingEffect
                 text={[""]} speed={25} typingDelay={0} //text=["Hello.", "World!"]
@@ -50,7 +50,7 @@ export class Header extends Component {
                 </div>
 
               </div>
-              <div style={{ textAlign: 'left' }} className="padding-top-20 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+              <div style={{ textAlign: 'left' }} className="padding-top-20 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
 
                 <div style={{textAlign:'left'}} >
                  <Countdown color='#ffffff' date={`2020-05-15T00:00:00`} />
