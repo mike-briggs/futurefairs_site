@@ -41,7 +41,7 @@ export class Header extends Component {
                 <div className="row ">
 
                   <h4 style={{ paddingLeft: '15px', color: '#EDEFF5', fontFamily: 'Lato', fontWeight: '400', fontSize: '1.2em', lineHeight: '30px' }} >
-                    Organize your next campus recruitment online. Companies identify top candidates through a streamlined screening process. Students learn about potential employers & jobs matching their specific skill set.
+                    Organize your next campus recruitment online. Companies can identify top candidates through a streamlined video chat screening process. Students learn about potential employers & jobs matching their specific skill set.
                     <br></br><br></br><strong style={{color:'#33D69F'}}>Coming soon</strong> - Sign up to be notified when we are live.
 
                   </h4>
@@ -58,7 +58,7 @@ export class Header extends Component {
                 </div>
                 <div style={{paddingLeft:'30px'}} className="row">
                   <a href="#contact" className="main-button-header"><img className="" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={user}></img> Register </a>
-                  <a href="#portfolio" className="main-button-nobg"><img className="arrow" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 4 }} src={next_blue}></img> Learn More </a>
+                  <a href="#content" className="main-button-nobg"><img className="arrow" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 4 }} src={next_blue}></img> Learn More </a>
 
 
                 </div>

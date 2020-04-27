@@ -11,7 +11,7 @@ import "slick-carousel/slick/slick-theme.css";
 export class Section1 extends Component {
   render() {
     return (
-      <div style={{ marginTop: '0px', backgroundImage: 'none',paddingBottom:100 }} >
+      <div id="content" style={{ marginTop: '0px', backgroundImage: 'none',paddingBottom:100 }} >
         <div className="header-text ">
           <div style={{ padding: '0px',flex: 1,
     justifyContent: 'center',

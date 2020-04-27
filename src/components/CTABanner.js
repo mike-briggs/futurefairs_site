@@ -12,7 +12,7 @@ export class CTABanner extends Component {
 
                 <h1 className="" style={{  fontFamily: 'Cabin', fontWeight: 600, fontSize: '1.5em', color:'#969CBA' }}>FUTURE TALENT FAIRS</h1>
 
-                        <p style={{ color: '#fff', fontFamily: 'Ubuntu', fontSize: '4em', fontWeight: 700 }}>The Benefits of Hosting <br></br>Online Await...</p>
+                        <p style={{ color: '#fff', fontFamily: 'Cabin', fontSize: '4em', fontWeight: 700 }}>The Benefits of Hosting <br></br>Online Await...</p>
                         {/*<p style={{ color: '#fff', fontFamily: 'Lato', fontSize: '1.2em', fontWeight: 500 }}>Contact us below and we will setup a phone call to give you a quote and discuss more details.</p>*/}
                         
         

@@ -35,21 +35,21 @@ export class NavBar extends Component {
                                     <a href="/#" className="logo" style={{ color: 'black', paddingLeft:'30px',paddingTop: '7px'}}>
                                         <img className="" style={{ width: 'auto', height: '32pt', marginBottom:5 }} src={logo}></img>
                                     </a>
-                                    <div style={{float:'right', paddingTop: '10px'}}>
-                                    <a href="/#portfolio" className="logo" style={{ paddingRight:'30px' }}>
+                                    <div style={{float:'right', paddingTop: '15px'}}>
+                                    {/*<a href="/#content" className="logo" style={{ paddingRight:'30px' }}>
                                         <h2 style={{ color: '#fff', fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '16px', fontWeight: '400',letterSpacing: 0 }}>About</h2>
                                     </a>
-                                    <a href="/#portfolio" className="logo" style={{ paddingRight:'30px' }}>
+                                    <a href="/#content" className="logo" style={{ paddingRight:'30px' }}>
                                         <h2 style={{ color: '#fff', fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '16px', fontWeight: '400',letterSpacing: 0 }}>Features</h2>
                                     </a>
-                                    <a href="/#portfolio" className="logo" style={{ paddingRight:'45px' }}>
+                                    <a href="/#content" className="logo" style={{ paddingRight:'45px' }}>
                                         <h2 style={{ color: '#fff', fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '16px', fontWeight: '400',letterSpacing: 0 }}>How it Works</h2>
-                                    </a>
+        </a>
                                     <a  className="logo" style={{ paddingRight:'30px' }}>
                                         
                                             <img className="" style={{ height: '16pt', width: 'auto', marginRight: 10, marginBottom: 2 }} src={vr}></img>
                                             
-                                    </a>
+                                    </a>*/}
                                     <a href="/#contact" className="logo" style={{ paddingRight:'30px' }}>
                                         <h2 style={{ color: '#fff', fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '16px', fontWeight: '400',letterSpacing: 0 }}>
                                             <img className="" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={user}></img>
