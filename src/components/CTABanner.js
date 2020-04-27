@@ -22,7 +22,7 @@ export class CTABanner extends Component {
                     
                         <Countdown color='#ffffff' date={`2020-05-15T00:00:00`}/>
                         {/*<p style={{ color: '#fff', fontFamily: 'Lato', fontSize: '1.2em', fontWeight: 500 }}>Contact us below and we will setup a phone call to give you a quote and discuss more details.</p>*/}
-                        <a href="#contact" style={{marginRight:'15px'}} className="main-button-header"><img className="" style={{ width: '16pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={enter}></img>Register </a>
+                        <a href="#contact" className="main-button-header"><img className="" style={{ width: '16pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={enter}></img>Register </a>
         
                 </div>
 
