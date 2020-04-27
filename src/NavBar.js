@@ -53,7 +53,7 @@ export class NavBar extends Component {
                                     <a href="/#contact" className="logo" style={{ paddingRight:'30px' }}>
                                         <h2 style={{ color: '#fff', fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '16px', fontWeight: '400',letterSpacing: 0 }}>
                                             <img className="" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={user}></img>
-                                            Register</h2>
+                                            </h2>
                                     </a>
                                     {/*<a href="/#services" className="logo" style={{ color: 'black', paddingRight:'30px' }}>
                                         <h2 style={{ color: 'rgb(10, 10, 10)',fontFamily:'Ubuntu',  marginTop:'0px',fontSize: '18px', fontWeight: '600',letterSpacing: -0.5 }}>SERVICES</h2>
