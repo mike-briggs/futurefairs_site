@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.805bfa5c.chunk.css",
-    "main.js": "/static/js/main.e29e52fc.chunk.js",
-    "main.js.map": "/static/js/main.e29e52fc.chunk.js.map",
+    "main.js": "/static/js/main.ef0d2263.chunk.js",
+    "main.js.map": "/static/js/main.ef0d2263.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
     "static/css/2.56f5c2be.chunk.css": "/static/css/2.56f5c2be.chunk.css",
-    "static/js/2.95c1476d.chunk.js": "/static/js/2.95c1476d.chunk.js",
-    "static/js/2.95c1476d.chunk.js.map": "/static/js/2.95c1476d.chunk.js.map",
+    "static/js/2.77bb4889.chunk.js": "/static/js/2.77bb4889.chunk.js",
+    "static/js/2.77bb4889.chunk.js.map": "/static/js/2.77bb4889.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c077f3d931a99b0e509c1ed12a5094f6.js": "/precache-manifest.c077f3d931a99b0e509c1ed12a5094f6.js",
+    "precache-manifest.81e771569f30da3f2b09e101c3f0570a.js": "/precache-manifest.81e771569f30da3f2b09e101c3f0570a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.56f5c2be.chunk.css.map": "/static/css/2.56f5c2be.chunk.css.map",
     "static/css/main.805bfa5c.chunk.css.map": "/static/css/main.805bfa5c.chunk.css.map",
-    "static/js/2.95c1476d.chunk.js.LICENSE.txt": "/static/js/2.95c1476d.chunk.js.LICENSE.txt",
+    "static/js/2.77bb4889.chunk.js.LICENSE.txt": "/static/js/2.77bb4889.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/CTA-bg.288d37e0.svg",
     "static/media/Enter.svg": "/static/media/Enter.6e5a4969.svg",
     "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
     "static/media/header-bg.svg": "/static/media/header-bg.4204a8e8.svg",
     "static/media/header-right.png": "/static/media/header-right.ae526584.png",
-    "static/media/main-logo.svg": "/static/media/main-logo.bed3b90d.svg",
+    "static/media/main-logo.svg": "/static/media/main-logo.5b03333e.svg",
     "static/media/next_primary.svg": "/static/media/next_primary.6ac85cd1.svg",
     "static/media/section1.svg": "/static/media/section1.24052349.svg",
     "static/media/section2.svg": "/static/media/section2.5f00205c.svg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.cea588d5.js",
     "static/css/2.56f5c2be.chunk.css",
-    "static/js/2.95c1476d.chunk.js",
+    "static/js/2.77bb4889.chunk.js",
     "static/css/main.805bfa5c.chunk.css",
-    "static/js/main.e29e52fc.chunk.js"
+    "static/js/main.ef0d2263.chunk.js"
   ]
 }

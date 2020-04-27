@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import './App.css'
 import '../assets/css/bootstrap.min.css'
 import '../assets/css/font-awesome.css'
-import enter from '../assets/icons/Enter.svg'
+import user from '../assets/icons/user.svg'
 import next_blue from '../assets/icons/next_primary.svg'
 import headerBG from '../assets/images/header-bg.svg'
 import headerRight from '../assets/images/header-right.png'
@@ -57,7 +57,7 @@ export class Header extends Component {
                  
                 </div>
                 <div style={{paddingLeft:'30px'}} className="row">
-                  <a href="#contact" className="main-button-header">Register <img className="" style={{ width: '16pt', height: 'auto', marginLeft: 10, marginBottom: 2 }} src={enter}></img></a>
+                  <a href="#contact" className="main-button-header"><img className="" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 2 }} src={user}></img> Register </a>
                   <a href="#portfolio" className="main-button-nobg"><img className="arrow" style={{ width: '10pt', height: 'auto', marginRight: 10, marginBottom: 4 }} src={next_blue}></img> Learn More </a>
 
 

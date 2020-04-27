@@ -33,7 +33,7 @@ export class NavBar extends Component {
                             <nav className="main-nav">
                                 <div className="">
                                     <a href="/#" className="logo" style={{ color: 'black', paddingLeft:'30px',paddingTop: '7px'}}>
-                                        <img className="" style={{ width: 'auto', height: '24pt', marginBottom:5 }} src={logo}></img>
+                                        <img className="" style={{ width: 'auto', height: '32pt', marginBottom:5 }} src={logo}></img>
                                     </a>
                                     <div style={{float:'right', paddingTop: '10px'}}>
                                     <a href="/#portfolio" className="logo" style={{ paddingRight:'30px' }}>
