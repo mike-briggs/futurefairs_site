@@ -50,7 +50,7 @@ export class Header extends Component {
                 </div>
 
               </div>
-              <div style={{ textAlign: 'left' }} className="padding-top-20 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+              <div style={{ textAlign: 'left' }} className="padding-top-20 padding-bottom-40 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
 
                 <div style={{textAlign:'left'}} >
                  <Countdown color='#ffffff' date={`2020-05-15T00:00:00`} />
