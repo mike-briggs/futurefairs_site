@@ -63,13 +63,19 @@
             
             <form name="contact"  netlify >
               <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="col-lg-4 col-md-12 col-sm-12">
                   
                     <input name="name" type="text" class="form-control" id="name"  onChange={this.handleChange}
                       placeholder="Full Name" required=""></input>
                             
                         </div>
-                  <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="col-lg-4 col-md-12 col-sm-12">
+                  
+                          <input name="org" type="text" class="form-control" id="org"  onChange={this.handleChange}
+                            placeholder="Organization" required=""></input>
+                                  
+                              </div>
+                  <div class="col-lg-4 col-md-12 col-sm-12">
                     
                       <input name="email" type="email" class="form-control" id="email"  onChange={this.handleChange}
                         placeholder="Email Address" required=""></input>
