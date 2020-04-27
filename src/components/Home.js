@@ -58,8 +58,9 @@ export class Home extends Component{
               <Section1 />
               
               {/*<Section3 />*/}
-              
+              <hr></hr>
               <Section2 />
+              <hr></hr>
               <Section3 />
               <CTABanner/>
               <div id="contact"></div>

@@ -308,12 +308,13 @@ body {
 .Countdown-col{
   display: inline-block;
   color: #fff;
+  padding-bottom: 10px;
 }
 
 .Countdown-col-element{
   display: inline-block;
   color: #fff;
-  margin: 0 20px;
+  margin: 0 15px;
   display: flex;
   flex-direction: column;
 }
@@ -777,6 +778,7 @@ a.main-button-nobg {
   .typing-height{
     height:120px;
   }
+  
   .portfolio-padding{
     padding-right:30px;
     padding-left:30px;

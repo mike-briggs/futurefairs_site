@@ -103,14 +103,14 @@ class Countdown extends Component {
         <span className="Countdown-col">
           <span className="Countdown-col-element">
             <strong>{this.addLeadingZeros(countDown.min)}</strong>
-            <span style={{paddingTop:'10px'}}>minutes</span>
+            <span style={{paddingTop:'10px'}}>mins</span>
           </span>
         </span>
 
         <span className="Countdown-col">
           <span className="Countdown-col-element">
             <strong >{this.addLeadingZeros(countDown.sec)}</strong>
-            <span style={{paddingTop:'10px'}}>seconds</span>
+            <span style={{paddingTop:'10px'}}>secs</span>
           </span>
         </span>
       </div>
